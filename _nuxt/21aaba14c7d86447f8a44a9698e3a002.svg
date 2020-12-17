@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="324" height="273" viewBox="0 0 324 273">
+    <defs>
+        <path id="9ejwd6zlla" d="M19 0h286c10.493 0 19 8.507 19 19v235c0 10.493-8.507 19-19 19H19c-10.493 0-19-8.507-19-19V19C0 8.507 8.507 0 19 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-756 -255) translate(756 255)">
+                    <mask id="6aj6niasvb" fill="#fff">
+                        <use xlink:href="#9ejwd6zlla"/>
+                    </mask>
+                    <use fill="#FFF" xlink:href="#9ejwd6zlla"/>
+                    <g mask="url(#6aj6niasvb)">
+                        <g fill="#E9EAEA" transform="rotate(-26 57.384 229.472)">
+                            <rect width="34.072" height="34.072" x="77.385" rx="10.972"/>
+                            <rect width="34.072" height="34.072" x="116.077" rx="10.972"/>
+                            <rect width="34.072" height="34.072" x="154.77" rx="10.972"/>
+                            <g transform="translate(0 38.692)">
+                                <rect width="34.072" height="34.072" x="38.692" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="77.385" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="154.77" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="193.462" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="232.155" rx="10.972"/>
+                            </g>
+                            <g transform="translate(0 77.385)">
+                                <rect width="34.072" height="34.072" x="77.385" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="116.077" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="193.462" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="232.155" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="270.847" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="309.54" rx="10.972"/>
+                            </g>
+                            <g transform="translate(0 116.077)">
+                                <rect width="34.072" height="34.072" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="38.692" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="77.385" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="116.077" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="232.155" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="309.54" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="348.232" rx="10.972"/>
+                            </g>
+                            <g transform="translate(0 154.77)">
+                                <rect width="34.072" height="34.072" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="309.54" rx="10.972"/>
+                            </g>
+                            <g transform="translate(0 193.462)">
+                                <rect width="34.072" height="34.072" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="38.692" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="116.077" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="154.77" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="193.462" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="232.155" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="309.54" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="348.232" rx="10.972"/>
+                            </g>
+                            <g transform="translate(0 232.155)">
+                                <rect width="34.072" height="34.072" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="38.692" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="77.385" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="154.77" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="193.462" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="232.155" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="270.847" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="309.54" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="348.232" rx="10.972"/>
+                            </g>
+                            <g transform="translate(0 270.847)">
+                                <rect width="34.072" height="34.072" x="77.385" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="116.077" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="154.77" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="193.462" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="232.155" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="270.847" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="309.54" rx="10.972"/>
+                            </g>
+                            <g transform="translate(0 309.54)">
+                                <rect width="34.072" height="34.072" x="116.077" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="154.77" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="232.155" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="270.847" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="309.54" rx="10.972"/>
+                            </g>
+                            <g transform="translate(0 348.232)">
+                                <rect width="34.072" height="34.072" x="193.462" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="232.155" rx="10.972"/>
+                                <rect width="34.072" height="34.072" x="270.847" rx="10.972"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
